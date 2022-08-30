@@ -1,4 +1,3 @@
-import { async } from "regenerator-runtime";
 // import create from "core-js/library/fn/object/create";
 import { API_URL, RES_PER_PAGE, KEY } from "./config.js";
 // import { getJSON, sendJSON } from "./helpers.js";
